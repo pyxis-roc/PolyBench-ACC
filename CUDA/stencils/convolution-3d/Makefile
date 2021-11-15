@@ -1,4 +1,4 @@
-EXECUTABLE := 3DConvolution.exe
+EXECUTABLE := convolution-3d
 CUFILES := 3DConvolution.cu
 PATH_TO_UTILS := ../../utilities
 

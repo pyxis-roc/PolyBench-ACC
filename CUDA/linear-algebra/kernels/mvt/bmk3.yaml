@@ -1,0 +1,5 @@
+import:
+  - ../../../bmk3.yaml
+variables:
+  binary: ./mvt
+  tracepath: mvt.tar.bz2

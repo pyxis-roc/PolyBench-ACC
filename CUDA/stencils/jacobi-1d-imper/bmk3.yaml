@@ -1,0 +1,5 @@
+import:
+  - ../../bmk3.yaml
+variables:
+  binary: ./jacobi-1d-imper
+  tracepath: jacobi-1d-imper.tar.bz2

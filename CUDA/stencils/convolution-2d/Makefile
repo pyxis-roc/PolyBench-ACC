@@ -1,4 +1,4 @@
-EXECUTABLE := 2DConvolution.exe
+EXECUTABLE := convolution-2d
 CUFILES := 2DConvolution.cu
 PATH_TO_UTILS := ../../utilities
 

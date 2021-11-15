@@ -1,0 +1,5 @@
+import:
+  - ../../../bmk3.yaml
+variables:
+  binary: ./gramschmidt
+  tracepath: gramschmidt.tar.bz2

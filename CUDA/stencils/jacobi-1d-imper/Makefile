@@ -1,4 +1,4 @@
-EXECUTABLE := jacobi1D.exe
+EXECUTABLE := jacobi-1d-imper
 CUFILES := jacobi1D.cu
 PATH_TO_UTILS := ../../utilities
 

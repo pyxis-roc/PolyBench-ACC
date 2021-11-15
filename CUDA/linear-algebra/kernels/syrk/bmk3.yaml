@@ -1,0 +1,5 @@
+import:
+  - ../../../bmk3.yaml
+variables:
+  binary: ./syrk
+  tracepath: syrk.tar.bz2

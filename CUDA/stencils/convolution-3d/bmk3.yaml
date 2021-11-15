@@ -1,0 +1,5 @@
+import:
+  - ../../bmk3.yaml
+variables:
+  binary: ./convolution-3d
+  tracepath: convolution-3d.tar.bz2

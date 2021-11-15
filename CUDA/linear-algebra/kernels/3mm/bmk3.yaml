@@ -1,0 +1,5 @@
+import:
+  - ../../../bmk3.yaml
+variables:
+  binary: ./3mm
+  tracepath: 3mm.tar.bz2

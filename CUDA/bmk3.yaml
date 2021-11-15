@@ -1,0 +1,9 @@
+templates:
+  compile:
+    cmds: make CC=nvccwrap
+  trace:
+    cmds: 'record_cuda.py --archive={tracedir}/{tracepath} {binary}'
+variables:
+  binary: ./correlation
+  tracedir: traces
+  tracepath: correlation.tar.bz2

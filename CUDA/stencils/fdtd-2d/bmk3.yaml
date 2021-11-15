@@ -1,0 +1,5 @@
+import:
+  - ../../bmk3.yaml
+variables:
+  binary: ./fdtd2d
+  tracepath: fdtd2d.tar.bz2
